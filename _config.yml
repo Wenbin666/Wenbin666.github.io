@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Welcome
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Wenbin
 language: en
 timezone: ''
 logger: warn
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wenbin666.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -41,6 +41,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
