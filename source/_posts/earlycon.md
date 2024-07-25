@@ -1,7 +1,9 @@
 ---
-title: earlycon
+title: linux kernel earlycon 梳理
 date: 2023-04-18 20:50:44
-tags:
+tags: earlycon
+categories:  
+  - kernel
 ---
 
 # linux kernel earlycon 梳理

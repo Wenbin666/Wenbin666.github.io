@@ -1,11 +1,13 @@
 ---
-title: dma
+title: DMA概述
 date: 2023-05-27 16:12:42
-tags:
+tags: dma
+categories:  
+  - OS
 ---
 # DMA简述
 
-# 1. DMA概念
+# 1. DMA概述
 ## 1.1 DMA背景
 DMA(Direct Memory Access，直接存储器访问)，
 背景：相比CPU，memory和外设的速度是非常慢的，因而在memory和memory（或者memory和设备）之间搬运数据，非常浪费CPU的时间，造成CPU无法及时处理一些实时事件。

@@ -1,10 +1,12 @@
 ---
-title: DS5
+title: DS5使用说明
 date: 2024-07-15 19:30:00
-tags:
+tags: ARM-DS5
+categories:  
+  - Debug Tools
 ---
 
-# DS5
+# DS5使用说明
 
 # 1. 简介
 DS-5是一款调试利器，可以用于调试裸板和linux系统，涵盖从启动代码到内核，再到应用程序的所有开发阶段。

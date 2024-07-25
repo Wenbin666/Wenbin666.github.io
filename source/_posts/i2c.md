@@ -1,9 +1,11 @@
 ---
-title: i2c
+title: Linux I2C 驱动分析
 date: 2023-05-09 10:31:25
-tags:
+tags: i2c
+categories:
+ - Peripheral
 ---
-# linux I2C 驱动分析
+# Linux I2C 驱动分析
 
 # 1. 简介
 I2C(Inter－Integrated Circuit)是一种通用的总线协议。它是由Philips(飞利浦)，现NXP(恩智浦)半导体开发的一种简单的双向两线制总线协议标准。

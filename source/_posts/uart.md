@@ -1,7 +1,9 @@
 ---
-title: uart
+title: Uart简介与TTY驱动
 date: 2023-08-07 19:33:51
-tags:
+tags: uart
+categories:
+ - Peripheral
 ---
 # Uart简介与TTY驱动
 

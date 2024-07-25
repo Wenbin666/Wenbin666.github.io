@@ -1,9 +1,11 @@
 ---
-title: uboot
+title: uboot 引导kernel过程梳理
 date: 2024-07-17 20:57:48
-tags:
+tags: uboot
+categories:
+ - uboot
 ---
-# uboot
+# uboot 引导kernel过程梳理
 # 1. 关键流程
 ## 1.1 功能层面说明
 uboot的主要功能就是引导Linux内核启动，从功能性角度说明，流程如下：

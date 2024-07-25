@@ -1,7 +1,9 @@
 ---
-title: stdio
+title: Uboot serial、stdio 和 console的关系
 date: 2022-06-05 21:02:55
-tags:
+tags: stdio
+categories:
+ - uboot
 ---
 # Uboot serial、stdio 和 console的关系
 

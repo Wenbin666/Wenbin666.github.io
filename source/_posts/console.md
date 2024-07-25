@@ -1,7 +1,9 @@
 ---
-title: console
+title: linux kernel console 建立过程
 date: 2024-07-15 20:39:09
-tags:
+tags: console
+categories:  
+  - kernel
 ---
 # linux kernel console 建立过程
 以kernel v5.19.17版本进行分析

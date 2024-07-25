@@ -1,7 +1,9 @@
 ---
-title: trace32
+title: Trance32(劳特巴赫)基本使用
 date: 2022-06-22 20:24:34
-tags:
+tags: trace32
+categories:  
+  - Debug Tools
 ---
 
 # Trance32(劳特巴赫)基本使用

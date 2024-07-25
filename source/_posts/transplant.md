@@ -1,7 +1,9 @@
 ---
-title: transplant
+title: linux kernel 代码移植常见问题与解决
 date: 2021-9-18 19:24:41
-tags:
+tags: C/C++
+categories:  
+  - 编程
 ---
 # linux kernel 代码移植常见问题与解决
 

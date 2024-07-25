@@ -1,7 +1,9 @@
 ---
-title: mmc
+title: mmc 基本概念与驱动简述
 date: 2024-04-18 21:46:58
-tags:
+tags: mmc
+categories:
+ - Peripheral
 ---
 
 # mmc 基本概念与驱动简述
