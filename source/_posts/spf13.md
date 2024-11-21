@@ -26,18 +26,19 @@ sudo apt-get install global
 ```bash
 wget https://ftp.gnu.org/pub/gnu/global/global-6.6.tar.gz
 tar -xvf ./global-6.6.tar.gz
-./configure
-make -j4
-make ~/opt
+cd global-6.6
+mkdir ~/opt
 export PREFIX=~/opt
+./configure --prefix=$PREFIX
+make -j4
 make install
-echo export PATH=\$PATH:~/opt/usr/local/bin >> ~/.bashrc
+echo export PATH=\$PATH:~/opt/bin >> ~/.bashrc
 source ~/.bashrc
 ```
 # 适配gtags到vim
 ```
 mkdir ~/.vim/plugin
-cp ~/opt/usr/local/share/gtags/*.vim ~/.vim/plugin/
+cp ~/opt/share/gtags/*.vim ~/.vim/plugin/
 ```
 
 # 配置vim 自定义项目（选配）
